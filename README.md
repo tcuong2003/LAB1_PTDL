@@ -25,12 +25,4 @@ Ex: git commit -m "feat: thêm file abc.xyz"
 
 CẤU TRÚC THƯ MỤC 
 
-bai (ex: thong_ke_mo_ta)/
-├── chuong (ex: covid)/            
-│   ├── data/
-|        ├── file.csv
-│   ├── file.ipynb/
-├── chuong (ex: ...)/ 
-|   ├── data/
-|        ├── file.csv
-│   ├── file.ipynb/
+như mẫu của tui làm (phan_tich_don_bien_hai_bien)
